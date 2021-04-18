@@ -1,2 +1,2 @@
-# yanss
- Yet Another Noticeable Steam Swapper
+# So...
+Download [here](https://github.com/Zipliks/yanss/releases/download/release/yanss.exe)
