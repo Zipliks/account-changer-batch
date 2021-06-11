@@ -1,2 +1,2 @@
 # So...
-Download [here](https://github.com/Zipliks/yanss/raw/master/yanss.exe)
+Download [here](https://github.com/Zipliks/yanss/releases/download/release/switch.exe)
