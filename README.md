@@ -1,2 +1,1 @@
-# So...
-Download [here](https://github.com/Zipliks/yanss/releases/download/release/switch.exe)
+Download [here](https://github.com/Zipliks/account-changer-batch/releases/tag/executable)
